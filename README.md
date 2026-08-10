@@ -14,3 +14,4 @@ Analyzed a massive dataset of 180,000+ historical shipping records using Python 
 ## Business Impact & Strategic Recommendation
 * **Findings:** Identified nearly **$6 million** in trapped revenue due to severe bottlenecks, with Western Europe and Central America acting as the primary points of failure. 
 * **Actionable Insight:** Modeled a strategic routing intervention, proposing a shift of 15% of Standard Class freight to First Class within the top two failing regions to mitigate future operational losses and protect at-risk revenue.
+* ![Supply Chain Bottleneck Chart](Supply_Chain_Bottleneck_Chart.png)
